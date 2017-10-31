@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1490190780 source:e:\c++\allegroprojects\fruitninja\main.cpp
+	<allegro.h>
+	<iostream>
+
+1490014404 source:f:\c++\allegroprojects\fruitninja\main.cpp
+	<allegro.h>
+	<iostream>
+
